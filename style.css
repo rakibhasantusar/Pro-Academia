@@ -4,3 +4,23 @@ body{
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+
+/* 1st section  */
+
+.oerlay-color{
+    background: black;
+}
+.overlay{
+    object-fit: cover;
+    opacity: 0.4;
+}
+@media (max-width: 767.98px) { 
+    .mb-custom {
+        height: 75%!important;
+    }
+ }
+ @media (max-width: 575.98px) { 
+    .mb-custom {
+        height: 95%!important;
+    }
+  }
