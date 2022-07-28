@@ -24,3 +24,8 @@ body{
         height: 95%!important;
     }
   }
+
+/* 2nd section  */
+.mt-custom{
+    margin-top: 120px;
+}
