@@ -54,18 +54,33 @@ body{
   /* third section  */
   @media (max-width: 991.98px) { .custom-height{
     height: 100%;
-  } }
+  } 
+}
   /* 4th section  */
   @media (max-width: 991.98px) {.modals_btn{
     margin:auto
-} }
+} 
+.h-ready{
+    text-align: center;
+}
+}
   @media (max-width: 767.98px) { 
     .modals_btn{
-        margin:auto
+        text-align: center;
+    }
+    .h-ready{
+        text-align: center;
     }
  }
  @media (max-width: 575.98px) { 
     .modals_btn{
         margin:auto
     }
+    .h-ready{
+        text-align: center;
+    }
+  }
+  /* acordian section  */
+  .custom_border{
+    border: 1px solid #E8E8E8;
   }
